@@ -6,6 +6,7 @@ public class myClass
   {
     Scanner input = new Scanner(System.in);
     int i;
+    char c;
     
   }
 }
